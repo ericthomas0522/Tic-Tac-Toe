@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tic_Tac_Toe
 {
-    class Board
+    class Position
     {
-        public enum State { empty, X, O};
     }
 }
